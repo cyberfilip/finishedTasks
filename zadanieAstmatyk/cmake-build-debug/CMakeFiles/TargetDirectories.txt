@@ -1,0 +1,3 @@
+C:/Users/filip/CLionProjects/zadanieAstmatyk/cmake-build-debug/CMakeFiles/zadanieAstmatyk.dir
+C:/Users/filip/CLionProjects/zadanieAstmatyk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/filip/CLionProjects/zadanieAstmatyk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
